@@ -1,0 +1,555 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#naviteam1 {
+    color: #1a2137;
+}
+
+#naviteam2 {
+    color: #1a2137;
+}
+
+#naviteam3 {
+    color: #1a2137;
+}
+
+#naviteam4 {
+    color: #1a2137;
+}
+
+#naviteam5 {
+    color: #1a2137;
+}
+
+#naviteam6 {
+    color: #1a2137;
+}
+
+#naviteam7 {
+    color: #1a2137;
+}
+
+#naviteam8 {
+    color: #1a2137;
+}
+
+.vr_banner_logo {
+    height: 35px;
+}
+
+.vr_banner_background {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.vr_banner_heading {
+    font-family: roboto;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.vr_banner_text {
+    text-align: center;
+}
+
+.vr_banner_button {
+    background-color: #1a2137;
+    color: white;
+}
+
+/*.....................................................*/
+
+.vr_fetures_main_heading {
+    font-family: roboto;
+    font-size: 40px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.vr_fetures_image_hight {
+    height: 15vh;
+    padding-bottom: 5px;
+}
+
+.vr_fetures_center {
+    text-align: center;
+    padding: 4px;
+}
+
+.vr_fetures_heading {
+    font-family: roboto;
+    font-size: 30px;
+    color: #1f2933;
+}
+
+.vr_fetures_paragraph {
+    font-family: roboto;
+    font-size: 17px;
+    color: #7b8794;
+    font-weight: bold;
+}
+
+.vr_fetures_span_style {
+    font-family: roboto;
+    font-weight: bold;
+    font-style: italic;
+    color: #1f2933;
+}
+
+/*.................................................*/
+
+.vr_kit_main_heading {
+    font-family: roboto;
+    font-size: 40px;
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.vr_kit_center {
+    text-align: center;
+}
+
+.vr_kit_image_hight {
+    height: 200px;
+    width: 160px;
+}
+
+.vr_kit_paragraph {
+    font-family: roboto;
+    font-size: 30px;
+    color: #323f4b;
+}
+
+/*.......................................................*/
+
+.vr_op_con_main_height {
+    font-size: 40px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.vr_op_con_heading {
+    font-family: roboto;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.vr_op_con_paragraph {
+    font-family: roboto;
+    font-size: 20px;
+    color: #7b8794;
+}
+
+.vr_op_con_custom_btn {
+    height: 43px;
+    width: 113px;
+    background-color: #1a2137;
+    border-radius: 5px;
+    color: white;
+}
+
+/*........................................*/
+
+.vr_contact_center {
+    text-align: center;
+}
+
+.vr_contact_section {
+    background-color: #222b36;
+}
+
+.vr_contact_heading {
+    font-family: roboto;
+    font-size: 26px;
+    color: white;
+    font-weight: bold;
+}
+
+.vr_contact_custom_btn {
+    height: 43px;
+    width: 123px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    font-size: 15px;
+    color: white;
+    border-radius: 4px;
+}
+
+/*..............................................*/
+
+.vr_tren_blo_main_heading {
+    font-family: roboto;
+    font-size: 44px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.vr_tren_blo_heading {
+    font-family: roboto;
+    font-size: 15px;
+    color: #959ead;
+    font-weight: bold;
+}
+
+.vr_tren_blo_paragraph {
+    font-family: roboto;
+    font-size: 22px;
+    color: #323f4b;
+}
+
+.vr_tren_blo_link {
+    font-weight: bold;
+    color: #1754a1;
+}
+
+.vr_tren_blo_arrow {
+    height: 25px;
+    color: #1754a1;
+}
+
+.vr_tren_blo_custom_btn {
+    height: 64px;
+    width: 173px;
+    border-radius: 5px;
+    background-color: #1754a1;
+    color: white;
+}
+
+/*..................................................*/
+
+.vr_prod_main_head {
+    font-family: roboto;
+    font-size: 40px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.vr_prod_background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+
+.vr_prod_background2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+
+.vr_prod_background3 {
+    background-image: url("https://img.freepik.com/free-photo/vr-glasses-gaming_23-2151138399.jpg?semt=ais_hybrid");
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+
+.vr_prod_background4 {
+    background-image: url("https://img.freepik.com/free-photo/top-view-virtual-reality-headset_23-2148912725.jpg?semt=ais_hybrid");
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+
+.vr_prod_background5 {
+    background-image: url("https://img.freepik.com/premium-photo/virtual-reality-mockup_1285920-39.jpg?semt=ais_hybrid");
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+
+
+.vr_prod_heading {
+    font-family: roboto;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+.vr_prod_paragraph {
+    font-family: roboto;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+.vr_prod_custom_btn {
+    height: 43px;
+    width: 113px;
+    color: white;
+    font-weight: bold;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 3px;
+}
+
+.vr_prod_custom_btn2 {
+    height: 64px;
+    width: 173px;
+    border-radius: 5px;
+    background-color: #1754a1;
+    color: white;
+}
+
+/*............................................*/
+
+
+.vr_footer_section-bg {
+    background-color: #19232d;
+}
+
+.vr_footer_para {
+    color: #5a7184;
+    font-family: roboto;
+    font-size: 21px;
+    padding-bottom: 12px;
+}
+
+.vr_footer_logo-size {
+    height: 60px;
+    width: 100px;
+}
+
+.vr_footer_head {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.vr_footer_center {
+    text-align: center;
+}
+
+.vr_footer_line {
+    height: 1px;
+    background-color: #5a7184;
+}
+
+.vr_footer_content {
+    height: 60px;
+    width: 65px;
+    border-top-left-radius: 45px;
+    border-bottom-left-radius: 45px;
+    border-top-right-radius: 45px;
+    border-bottom-right-radius: 45px;
+    background-color: #202b36;
+    padding-top: 19px;
+    padding-bottom: 14px;
+    padding-right: 1px;
+    padding-left: 22px;
+    margin-right: 10px;
+}
+
+.vr_footer_icon {
+    color: #5a7184;
+    font-size: 24px;
+}
+
+.vr_footer_paracol {
+    color: #959ead;
+}
+
+/*.......................................*/
+
+
+.fcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
+.title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.subtitle {
+    color: #666;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.input-group {
+    position: relative;
+    margin-bottom: 1.5rem;
+}
+
+.form-control {
+    width: 90%;
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1.5px solid #ccc;
+    /* Default border color */
+    border-radius: 4px;
+    background: transparent;
+    transition: border-color 0.2s;
+    /* Smooth transition for border color change */
+    outline: none;
+}
+
+.form-control:focus {
+    border-color: #1a73e8;
+    /* Blue border color on focus */
+}
+
+.form-label {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: #666;
+    transition: all 0.2s ease;
+    pointer-events: none;
+}
+
+.form-control:focus+.form-label,
+.form-control:not(:placeholder-shown)+.form-label {
+    top: -0.95rem;
+    left: 1rem;
+    font-size: 0.75rem;
+    color: #1a73e8;
+    background: #fff;
+    padding: 0 0.25rem;
+}
+
+.btnf {
+    display: inline-block;
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #1a73e8;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.btnf:hover {
+    background-color: #1558b0;
+}
+
+.input-group {
+    margin-bottom: 1.5rem;
+}
+
+.hidden {
+    display: none;
+}
+
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-footer {
+    margin-top: 1rem;
+}
+
+.form-footer a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+/* Add this CSS to your stylesheet */
+.form-group {
+    position: relative;
+    margin-bottom: 1.5rem;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 1rem 0.75rem 0.375rem;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
+}
+
+.form-group input:focus {
+    border-color: #4285f4;
+}
+
+.form-group label {
+    position: absolute;
+    top: 0.75rem;
+    left: 0.75rem;
+    background-color: white;
+    color: #757575;
+    font-size: 1rem;
+    pointer-events: none;
+    transition: all 0.2s ease-in-out;
+    padding: 0 0.25rem;
+}
+
+.form-group input:focus+label,
+.form-group input:not(:placeholder-shown)+label {
+    top: -0.6rem;
+    left: 0.75rem;
+    color: #4285f4;
+    font-size: 0.75rem;
+}
+
+.form-group input:focus+label {
+    color: #4285f4;
+}
+
+/*.......................................*/
+.model-hylet {
+    color: #5dade2;
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 0 0 2px #5dade2, 0 0 4px #5dade2;
+}
+
+
+
+.buynow-btn {
+    border-width: 1px;
+    border-color: #5dade2;
+    height: 30px;
+    width: 80px;
+    background-color: transparent;
+    font-size: 12px;
+    border-radius: 5px;
+    color: #5dade2;
+}
+
+.custom-bg1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-optics-img.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    /* Adjust text color for better readability */
+}
+
+/* Optional: Style the modal header, body, and footer for better readability */
+.custom-bg1 .modal-header,
+.custom-bg1 .modal-body,
+.custom-bg1 .modal-footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent background */
+}
+
+.custom-bg2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-controllers-img.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    /* Adjust text color for better readability */
+}
+
+/* Optional: Style the modal header, body, and footer for better readability */
+.custom-bg2 .modal-header,
+.custom-bg2 .modal-body,
+.custom-bg2 .modal-footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent background */
+}
